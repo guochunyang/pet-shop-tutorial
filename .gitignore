@@ -1,0 +1,6 @@
+.env
+node_modules/*
+build/contracts/*
+test/
+test/*
+log_arbitrage.txt
